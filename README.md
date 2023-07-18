@@ -3,3 +3,4 @@
 | Folder | Description |
 | ------ | ----------- |
 | `python-hello_world` | It aims to teach the basics of python, variables, conditional statement, and loops  |
+| `python-functions` | It aims to teach how to write functions to solve specific tasks and improve code reusability |
