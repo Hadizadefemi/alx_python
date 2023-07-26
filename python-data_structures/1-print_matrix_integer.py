@@ -6,6 +6,8 @@ def print_matrix_integer(matrix=[[]]):
                 print("{}".format(i[j]))
             else:
                 print("{} ".format(i[j]), end="")
+    else:
+        print()
         
 
 matrix = [
