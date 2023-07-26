@@ -1,1 +1,1 @@
-# Learning about modules, command line arguments, errors and exception
+# Learning about modules, command line arguments, errors and exception in Python.
