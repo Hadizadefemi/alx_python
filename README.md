@@ -6,3 +6,4 @@
 | `python-functions` | It aims to teach how to write functions to solve specific tasks and improve code reusability |
 | `python-import_modules` | It aims to teach about modules, command line arguments, errors, and exceptions in Python. |
 | `python-data_structures` | It aims to teach about lists and tuples which are data structures in Python. |
+| `python-more_data_structures` | It aims to teach about sets, dictionary, lambda, filter, and map functions in Python |
