@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""A function that checks if an object is an instance of a class"""
+"""A function that checks if an object is exactly an instance of a class"""
 
 def is_same_class(obj, a_class):
-    """Checks if an object is an instance of a class
+    """Checks if an object is exactly an instance of a class
     
     Args:
         obj: object of a class
