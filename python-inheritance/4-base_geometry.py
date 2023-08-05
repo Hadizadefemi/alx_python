@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""""""
+"""BaseGeometry: contains a method area that is not implemented"""
 
 
 class RemoveInitSubClassMeta(type):
