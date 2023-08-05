@@ -14,4 +14,4 @@ class BaseGeometry(metaclass=RemoveInitSubClassMeta):
     
     def area(self):
         """Not implemented"""
-        raise Exception('area() is not implemeted')
+        raise Exception('area() is not implemented')
