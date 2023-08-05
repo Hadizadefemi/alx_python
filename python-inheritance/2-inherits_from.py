@@ -5,7 +5,7 @@ of a class that inherits directly or indirectly
 
 
 def inherits_from(obj, a_class):
-    """checks if an object is an instance of a 
+    """checks if an object is an instance of a
     class that inherits directly or indirectly
 
     Args:
