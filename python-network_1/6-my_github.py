@@ -14,8 +14,6 @@ if __name__ == "__main__":
 
     response = requests.post(url, auth=(username, password))
 
-    try:
-        data = response.json()
-        print(data.get('id'))
-    except ValueError:
-        print("None")
+    data = response.json()
+    print(data.get('id'))
+
